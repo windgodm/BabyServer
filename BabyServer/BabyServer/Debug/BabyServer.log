@@ -1,0 +1,73 @@
+﻿  BabyServer.cpp
+  csapp_netp_win.c
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(64,9): error C2061: 语法错误: 标识符“rio_readn”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(64,9): error C2059: 语法错误:“;”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(64,23): error C2059: 语法错误:“<parameter-list>”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(65,9): error C2061: 语法错误: 标识符“rio_writen”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(65,9): error C2059: 语法错误:“;”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(65,24): error C2059: 语法错误:“<parameter-list>”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(67,9): error C2061: 语法错误: 标识符“rio_readnb”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(67,9): error C2059: 语法错误:“;”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(67,26): error C2059: 语法错误:“<parameter-list>”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(68,9): error C2061: 语法错误: 标识符“rio_readlineb”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(68,9): error C2059: 语法错误:“;”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(68,29): error C2059: 语法错误:“<parameter-list>”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(71,9): error C2061: 语法错误: 标识符“Rio_readn”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(71,9): error C2059: 语法错误:“;”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(71,23): error C2059: 语法错误:“<parameter-list>”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(74,9): error C2061: 语法错误: 标识符“Rio_readnb”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(74,9): error C2059: 语法错误:“;”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(74,26): error C2059: 语法错误:“<parameter-list>”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(75,9): error C2061: 语法错误: 标识符“Rio_readlineb”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(75,9): error C2059: 语法错误:“;”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.h(75,29): error C2059: 语法错误:“<parameter-list>”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(32,26): warning C4474: printf: 格式字符串中传递的参数太多
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(32,26): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(58,31): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(67,58): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(78,9): error C2061: 语法错误: 标识符“rio_readn”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(78,9): error C2059: 语法错误:“;”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(78,23): error C2059: 语法错误:“<parameter-list>”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(102,9): error C2061: 语法错误: 标识符“rio_writen”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(102,9): error C2059: 语法错误:“;”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(102,24): error C2059: 语法错误:“<parameter-list>”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(130,16): error C2061: 语法错误: 标识符“rio_read”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(130,16): error C2059: 语法错误:“;”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(130,31): error C2059: 语法错误:“<parameter-list>”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(170,9): error C2061: 语法错误: 标识符“rio_readnb”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(170,9): error C2059: 语法错误:“;”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(170,26): error C2059: 语法错误:“<parameter-list>”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(190,9): error C2061: 语法错误: 标识符“rio_readlineb”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(190,9): error C2059: 语法错误:“;”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(190,29): error C2059: 语法错误:“<parameter-list>”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(218,9): error C2061: 语法错误: 标识符“Rio_readn”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(218,9): error C2059: 语法错误:“;”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(218,23): error C2059: 语法错误:“<parameter-list>”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(229,19): warning C4013: “rio_writen”未定义；假设外部返回 int
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(238,9): error C2061: 语法错误: 标识符“Rio_readnb”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(238,9): error C2059: 语法错误:“;”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(238,26): error C2059: 语法错误:“<parameter-list>”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(247,9): error C2061: 语法错误: 标识符“Rio_readlineb”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(247,9): error C2059: 语法错误:“;”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(247,29): error C2059: 语法错误:“<parameter-list>”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(279,35): warning C4133: “函数”: 从“char *”到“PCWSTR”的类型不兼容
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(279,41): warning C4133: “函数”: 从“char *”到“PCWSTR”的类型不兼容
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(279,49): warning C4133: “函数”: 从“addrinfo *”到“const ADDRINFOW *”的类型不兼容
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(279,57): warning C4133: “函数”: 从“addrinfo **”到“PADDRINFOW *”的类型不兼容
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(280,25): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“WCHAR *”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(280,25): message : 请考虑在格式字符串中使用“%ls”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(280,25): message : 请考虑在格式字符串中使用“%lls”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(280,25): message : 请考虑在格式字符串中使用“%Ls”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(280,25): message : 请考虑在格式字符串中使用“%ws”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(301,23): warning C4133: “函数”: 从“addrinfo *”到“PADDRINFOW”的类型不兼容
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(295,72): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(327,37): warning C4133: “函数”: 从“char *”到“PCWSTR”的类型不兼容
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(327,45): warning C4133: “函数”: 从“addrinfo *”到“const ADDRINFOW *”的类型不兼容
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(327,53): warning C4133: “函数”: 从“addrinfo **”到“PADDRINFOW *”的类型不兼容
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(328,25): warning C4477: “fprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“WCHAR *”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(328,25): message : 请考虑在格式字符串中使用“%ls”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(328,25): message : 请考虑在格式字符串中使用“%lls”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(328,25): message : 请考虑在格式字符串中使用“%Ls”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(328,25): message : 请考虑在格式字符串中使用“%ws”
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(353,23): warning C4133: “函数”: 从“addrinfo *”到“PADDRINFOW”的类型不兼容
+E:\works\github\BabyServer\BabyServer\BabyServer\csapp_netp_win.c(346,71): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
